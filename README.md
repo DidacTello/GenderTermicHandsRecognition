@@ -37,3 +37,6 @@ From the provided confusion matrix and sample prediction images, it is evident t
 The GenderTermicHandsRecognition model demonstrates the capability of using thermal imaging for gender classification. The successful application of transfer learning via the VGG16 model illustrates the potential of deep learning in unconventional image processing tasks.
 
 ![alt text](sample_predictions-1.png)
+
+
+Made with 💗 by Dídac Tello and Alejandro Samper
